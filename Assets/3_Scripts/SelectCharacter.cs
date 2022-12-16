@@ -5,27 +5,20 @@ using UnityEngine.SceneManagement;
 
 public class SelectCharacter : MonoBehaviour
 {
-    public int playerNum;
+    public int playerNum;                 // 캐릭터가 가질 정보 유니토 : 1, 유니 : 2
 
-    // Start is called before the first frame update
-    void Start()
+    void Start()                          // SceneLoad이후에도 파괴되지 않고 정보를 넘기 위함
     {
         DontDestroyOnLoad(gameObject);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    public void SelectBoy()
+    public void SelectBoy()               // 남자 캐릭터 선택
     {
         playerNum = 1;
         SceneManager.LoadScene("01_Play");
     }
 
-    public void SelectGirl()
+    public void SelectGirl()              // 여자 캐릭터 선택
     {
         playerNum = 2;
         SceneManager.LoadScene("01_Play");
