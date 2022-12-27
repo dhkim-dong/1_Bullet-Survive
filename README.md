@@ -6,7 +6,7 @@
 <br/> **프로젝트 기간** : 2022년 9월 4일 ~ 2022년 9월 11일
 <br/> **개발 인원**    : 3명
 <br/> **게임 장르**    : 탄막 피하기
-<br/> **노션 링크 **    : [노션](https://glamorous-timpani-e2c.notion.site/Unity-C-117ac0c996df4ac284e2e8bdd6b7a7f2)
+<br/> **노션 링크**    : [노션](https://glamorous-timpani-e2c.notion.site/Unity-C-117ac0c996df4ac284e2e8bdd6b7a7f2)
 
 :bulb:   Git-구성
 ------------------------
