@@ -14,19 +14,18 @@
   * 프로젝트는 유니티 패키지 파일로 모델링 파일을 공유하였고, 팀장의 컴퓨터에서 작업물을 병합하였습니다.
     * 각각 팀원은 게임 기능 구현, 게임 모델링 및 배경 구현, 게임 밸런스 기획 및 시나리오 구성의 역할을 맡았습니다.
 <img src="img/one.png">
-07_Scripts 폴더
-<img src="img/two.png">
+
 
 💾 김동훈 Git 작업 내역
 ------------------------
 * Assets > 03_Scripts 폴더 안에서 제가 작업한 코드 Script를 확인할 수 있습니다.
   * Bullet
-  * 
-  *   
-  * 
-  * 
+  * BulletSpawn
+  * GameManager
+  * PlayerController
+  * SelectCharacter
+  * SpawnEnemy
 
-<img src="img/three.png">
 
 
 :nail_care: README.md Version ManageMent
