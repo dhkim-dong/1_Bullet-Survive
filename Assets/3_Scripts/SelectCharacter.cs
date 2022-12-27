@@ -15,12 +15,12 @@ public class SelectCharacter : MonoBehaviour
     public void SelectBoy()               // 남자 캐릭터 선택
     {
         playerNum = 1;
-        SceneManager.LoadScene("01_Play");
+        SceneManager.LoadScene("02_Dialouge");
     }
 
     public void SelectGirl()              // 여자 캐릭터 선택
     {
         playerNum = 2;
-        SceneManager.LoadScene("01_Play");
+        SceneManager.LoadScene("02_Dialouge");
     }
 }
