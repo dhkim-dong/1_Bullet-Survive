@@ -19,12 +19,12 @@
 💾 김동훈 Git 작업 내역
 ------------------------
 * Assets > 03_Scripts 폴더 안에서 제가 작업한 코드 Script를 확인할 수 있습니다.
-  * Bullet
-  * BulletSpawn
-  * GameManager
-  * PlayerController
-  * SelectCharacter
-  * SpawnEnemy
+  * Bullet : 총알이 가지고 있는 물리 효과를 구현
+  * BulletSpawn : 총알 생성자의 기능 구현
+  * GameManager : 게임 플레이 타임, Playprefabs에 데이터 저장 등 공통 데이터 관리
+  * PlayerController : 게임 Player 이동 및 방어 기능 구현
+  * SelectCharacter : SceneManagement를 활용하여 캐릭터 선택 Scene 구현
+  * SpawnEnemy : Level별 증가하는 Enemy 구현
 
 
 
@@ -34,3 +34,4 @@
 색인|버전|날짜|월|일|작업 내용
 ---|---|---|---|---|---|
 1|V1.0|2022년|12월|27일|최초 README.md Commit
+2|V2.0|2022년|12월|28일| 오탈자 수정, 내용 업데이트
