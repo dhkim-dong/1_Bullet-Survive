@@ -6,7 +6,7 @@
 <br/> **프로젝트 기간** : 2022년 9월 4일 ~ 2022년 9월 11일
 <br/> **개발 인원**    : 3명
 <br/> **게임 장르**    : 탄막 피하기
-<br/> **노션 링크**    : [노션](https://glamorous-timpani-e2c.notion.site/Unity-C-117ac0c996df4ac284e2e8bdd6b7a7f2)
+<br/> **노션 링크**    : [불릿 서바이벌](https://glamorous-timpani-e2c.notion.site/Bullet-Survival-a5ffc1d9702a43e6bc1a0417b53ddde7)
 
 :bulb:   Git-구성
 ------------------------
@@ -34,4 +34,4 @@
 색인|버전|날짜|월|일|작업 내용
 ---|---|---|---|---|---|
 1|V1.0|2022년|12월|27일|최초 README.md Commit
-2|V2.0|2022년|12월|28일| 오탈자 수정, 내용 업데이트
+2|V2.0|2022년|12월|28일| 오탈자 수정, 링크 업데이트
